@@ -1,3 +1,5 @@
+### 🔗 [LIVE DEMO: Experience OrbitED Here](https://orbit-ed--bloo333.replit.app)
+
 🛰️ OrbitEd: The Intelligent Student Operating System
 
 Team TinyTide Submission | Amaya Bell | World Wide Vibe Hackathon 2026
